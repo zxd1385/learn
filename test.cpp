@@ -1,2 +1,3 @@
 print("Hellow owourld!")
-int a = 9 ;
+
+float b = 7.0 ;
